@@ -1,0 +1,2 @@
+export const API_KEY = 'b55934202aa1c997e4d4605e26c39f80b81e3f766eec35621a14ef878b902978';
+export const CHI_REF = 'ae8e6335-5edc-4a0a-8368-5018ce75c7a2'
