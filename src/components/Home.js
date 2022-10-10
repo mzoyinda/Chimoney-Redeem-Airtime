@@ -49,10 +49,10 @@ justify-content: center;
 color: white;
 
 h1{
-    font-size: 4rem;
+    font-size: 3rem;
 }
 p{
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-top: 2rem;
     margin-bottom: 3rem;
 }
